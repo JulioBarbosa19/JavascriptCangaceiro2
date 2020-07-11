@@ -1,2 +1,2 @@
 # JavascriptCangaceiro
-Projeto baseado no livro *Javascript Cangaceiro* 
+Projeto baseado no livro **Javascript Cangaceiro** 
